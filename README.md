@@ -36,8 +36,7 @@ We narrowed our scope down to 18 countries representing all continents and the f
 
 ###Female labor force compare to HCI
 
-**We found a positive up hill correlation of 0.66 between female labor participation of women 15 to 64 years of age and HCI.   Further analysis is needed to understand the relationship since the variables may be conditioned by each other but not related.  Female labor force participation is measuring economically activity women in 2018 and HCI predicts human capacity.![image](https://user-images.githubusercontent.com/18450600/153251122-b8090b91-22a6-4793-8b9d-adf5adc88fca.png)
-
+**We found a positive up hill correlation of 0.66 between female labor participation of women 15 to 64 years of age and HCI.   Further analysis is needed to understand the relationship since the variables may be conditioned by each other but not related.  Female labor force participation is measuring economically activity women in 2018 and HCI predicts human capacity.
 
 ###Economic sectors compare to HCI
 
@@ -55,4 +54,4 @@ We than researched how HCI was related to different working activities (agricult
 •	The unemployment rate is calculated by dividing the number of unemployed people by the total number in the labor force, then multiplying by 100
 
 •	We found that female and male unemployment rates vary greatly between the countries.
-![image](https://user-images.githubusercontent.com/18450600/153250775-6d5e1add-df04-4b24-972c-969309b6fc3d.png)
+
